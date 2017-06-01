@@ -1,0 +1,3 @@
+model_checkpoint_path: "model_0_4_with_dropout_final.ckpt"
+all_model_checkpoint_paths: "model_0_4_with_dropout.ckpt"
+all_model_checkpoint_paths: "model_0_4_with_dropout_final.ckpt"
